@@ -15,7 +15,7 @@ All scripts in this project are written in Python.
 
 ## Authors
 
-**Aawaj Raj Joshi** 
+**Aawaj Raj Joshi**, **Dr. Eva Wu**
 
 
 
